@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370876130326",
+    "project_id": "alisveris-db7df",
+    "storage_bucket": "alisveris-db7df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370876130326:android:abbf9d68b3ab3cec770137",
+        "android_client_info": {
+          "package_name": "com.example.alisverisproje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqJTW22vPyo97T31ZnMgQDsExWfcYsB5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
